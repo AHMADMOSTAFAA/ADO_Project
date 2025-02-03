@@ -1,0 +1,15 @@
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\bin\Debug\net9.0\ADO.Business.deps.json
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\bin\Debug\net9.0\ADO.Business.dll
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\bin\Debug\net9.0\ADO.Business.pdb
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\bin\Debug\net9.0\ADO.DataAccess.dll
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\bin\Debug\net9.0\ADO.DataAccess.pdb
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\obj\Debug\net9.0\ADO.Business.csproj.AssemblyReference.cache
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\obj\Debug\net9.0\ADO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\obj\Debug\net9.0\ADO.Business.AssemblyInfoInputs.cache
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\obj\Debug\net9.0\ADO.Business.AssemblyInfo.cs
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\obj\Debug\net9.0\ADO.Business.csproj.CoreCompileInputs.cache
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\obj\Debug\net9.0\ADO.Busi.91C32937.Up2Date
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\obj\Debug\net9.0\ADO.Business.dll
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\obj\Debug\net9.0\refint\ADO.Business.dll
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\obj\Debug\net9.0\ADO.Business.pdb
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.Business\obj\Debug\net9.0\ref\ADO.Business.dll

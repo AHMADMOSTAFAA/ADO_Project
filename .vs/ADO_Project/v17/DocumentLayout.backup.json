@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0381A960-F987-484A-A610-8B5BA79D20E9}|ADO_Proj_Presentation\\ADO_Proj_Presentation.csproj|C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ado_proj_presentation\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0381A960-F987-484A-A610-8B5BA79D20E9}|ADO_Proj_Presentation\\ADO_Proj_Presentation.csproj|solutionrelative:ado_proj_presentation\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0381A960-F987-484A-A610-8B5BA79D20E9}|ADO_Proj_Presentation\\ADO_Proj_Presentation.csproj|c:\\users\\dr\\desktop\\iti\\ahmad mostafa ado_project\\ado_project\\ado_proj_presentation\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0381A960-F987-484A-A610-8B5BA79D20E9}|ADO_Proj_Presentation\\ADO_Proj_Presentation.csproj|solutionrelative:ado_proj_presentation\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0381A960-F987-484A-A610-8B5BA79D20E9}|ADO_Proj_Presentation\\ADO_Proj_Presentation.csproj|c:\\users\\dr\\desktop\\iti\\ahmad mostafa ado_project\\ado_project\\ado_proj_presentation\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0381A960-F987-484A-A610-8B5BA79D20E9}|ADO_Proj_Presentation\\ADO_Proj_Presentation.csproj|solutionrelative:ado_proj_presentation\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0381A960-F987-484A-A610-8B5BA79D20E9}|ADO_Proj_Presentation\\ADO_Proj_Presentation.csproj|c:\\users\\dr\\desktop\\iti\\ahmad mostafa ado_project\\ado_project\\ado_proj_presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0381A960-F987-484A-A610-8B5BA79D20E9}|ADO_Proj_Presentation\\ADO_Proj_Presentation.csproj|solutionrelative:ado_proj_presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0381A960-F987-484A-A610-8B5BA79D20E9}|ADO_Proj_Presentation\\ADO_Proj_Presentation.csproj|c:\\users\\dr\\desktop\\iti\\ahmad mostafa ado_project\\ado_project\\ado_proj_presentation\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0381A960-F987-484A-A610-8B5BA79D20E9}|ADO_Proj_Presentation\\ADO_Proj_Presentation.csproj|solutionrelative:ado_proj_presentation\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C73F3F-1015-4B67-BDF3-73ECE64F8A05}|ADO_Project\\ADO_Project.csproj|c:\\users\\dr\\desktop\\iti\\ahmad mostafa ado_project\\ado_project\\ado_project\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C73F3F-1015-4B67-BDF3-73ECE64F8A05}|ADO_Project\\ADO_Project.csproj|solutionrelative:ado_project\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ADO_Project\\Welcome.cs",
+              "RelativeDocumentMoniker": "ADO_Project\\Welcome.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ADO_Project\\Welcome.cs",
+              "RelativeToolTip": "ADO_Project\\Welcome.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:46:42.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ADO_Proj_Presentation\\Register.cs",
+              "RelativeDocumentMoniker": "ADO_Proj_Presentation\\Register.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ADO_Proj_Presentation\\Register.cs",
+              "RelativeToolTip": "ADO_Proj_Presentation\\Register.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:47:08.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ADO_Proj_Presentation\\Login.cs",
+              "RelativeDocumentMoniker": "ADO_Proj_Presentation\\Login.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ADO_Proj_Presentation\\Login.cs",
+              "RelativeToolTip": "ADO_Proj_Presentation\\Login.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:47:22.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ADO_Proj_Presentation\\Admin.cs",
+              "RelativeDocumentMoniker": "ADO_Proj_Presentation\\Admin.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ADO_Proj_Presentation\\Admin.cs",
+              "RelativeToolTip": "ADO_Proj_Presentation\\Admin.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAkwA4BAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:57:29.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ADO_Proj_Presentation\\User.cs",
+              "RelativeDocumentMoniker": "ADO_Proj_Presentation\\User.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ADO_Proj_Presentation\\User.cs",
+              "RelativeToolTip": "ADO_Proj_Presentation\\User.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:47:16.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ADO_Proj_Presentation\\Admin.cs",
+              "RelativeDocumentMoniker": "ADO_Proj_Presentation\\Admin.cs",
+              "ToolTip": "C:\\Users\\DR\\Desktop\\ITI\\Ahmad Mostafa ADO_Project\\ADO_Project\\ADO_Proj_Presentation\\Admin.cs [Design]",
+              "RelativeToolTip": "ADO_Proj_Presentation\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:05:53.708Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

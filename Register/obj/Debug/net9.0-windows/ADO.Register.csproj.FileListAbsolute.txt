@@ -1,0 +1,6 @@
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\Register\obj\Debug\net9.0-windows\RegistrationNamespace.Register.resources
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\Register\obj\Debug\net9.0-windows\ADO.Register.csproj.GenerateResource.cache
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\Register\obj\Debug\net9.0-windows\ADO.Register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\Register\obj\Debug\net9.0-windows\ADO.Register.AssemblyInfoInputs.cache
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\Register\obj\Debug\net9.0-windows\ADO.Register.AssemblyInfo.cs
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\Register\obj\Debug\net9.0-windows\ADO.Register.csproj.CoreCompileInputs.cache

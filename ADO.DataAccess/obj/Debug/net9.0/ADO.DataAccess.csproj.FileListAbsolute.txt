@@ -1,0 +1,12 @@
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.DataAccess\bin\Debug\net9.0\ADO.DataAccess.deps.json
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.DataAccess\bin\Debug\net9.0\ADO.DataAccess.dll
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.DataAccess\bin\Debug\net9.0\ADO.DataAccess.pdb
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.DataAccess\obj\Debug\net9.0\ADO.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.DataAccess\obj\Debug\net9.0\ADO.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.DataAccess\obj\Debug\net9.0\ADO.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.DataAccess\obj\Debug\net9.0\ADO.DataAccess.AssemblyInfo.cs
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.DataAccess\obj\Debug\net9.0\ADO.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.DataAccess\obj\Debug\net9.0\ADO.DataAccess.dll
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.DataAccess\obj\Debug\net9.0\refint\ADO.DataAccess.dll
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.DataAccess\obj\Debug\net9.0\ADO.DataAccess.pdb
+C:\Users\DR\Desktop\ITI\Ahmad Mostafa ADO_Project\ADO_Project\ADO.DataAccess\obj\Debug\net9.0\ref\ADO.DataAccess.dll
